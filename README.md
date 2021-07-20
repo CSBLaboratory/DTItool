@@ -6,8 +6,8 @@ Drug Target Identifier Toolbox (DTItool) is an application of Rapid-SL and desig
 
 ### 1: File
 This menu contains four submenus:
-##### Import Model:
-##### Export Model:
-##### Import Bounds:
-##### Export Bounds:
+#####   Import Model:
+#####   Export Model:
+#####   Import Bounds:
+#####   Export Bounds:
   
