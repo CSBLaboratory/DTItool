@@ -23,7 +23,7 @@ This menu contains one submenu:\
 **GitHub Link**: lined to this _README.md_ file.
 
 ### 4: Show Only Exchange Reactions
-This checkbox helps the user to explore only in the exhcange reactions of the model. If checked, only exchange reactions will be shown in the table of reactions.
+This checkbox helps the user to explore only the exchange reactions of the model. If checked, only exchange reactions will be shown in the table of reactions.
 
 ### 5: Table of the Reactions And the Related Bounds
 The first column shows the reaction abbreviations of the model.\
@@ -32,9 +32,9 @@ The third column shows the upper bounds of the reactions.\
 The reaction bound **can be changed directly** from the table.
 
 ### 6: Objective to Attack
-Choose the type of the analysis:\
+Choose the type of analysis:\
 **Proliferation (Biomass Production)**: to perform the convenient lethality analysis.\
-**Virulence Factor Production**: to perform an analysis to find the sets which prevents the production of the selected virulence factors (the list is shown in part 14). Parts 8, 9, 10, 14, 15 will be activated by selecting this type of analysis.
+**Virulence Factor Production**: to perform an analysis to find the sets that prevent the production of the selected virulence factors (the list is shown in part 14). Parts 8, 9, 10, 14, 15 will be activated by selecting this type of analysis.
 
 ### 7: Type of Sets
 This part defines the types of the reported _sets_. Choose _Reaction Sets_ to find reaction sets or _Gene Sets_ to find gene sets.
@@ -55,7 +55,7 @@ All selected virulence factors will be shown in this table.
 The selected metabolite in the related table can be removed from the list of virulence factors by clicking on this button.
 
 ### 13: Number of Workers
-The number of workers can be changed by edditing this item and clicking on the _Reset Number of Workers_ button (part 14). The default number of workers is 4.
+The number of workers can be changed by editing this item and clicking on the _Reset Number of Workers_ button (part 14). The default number of workers is 4.
 
 ### 14: Reset Number of Workers
 This push button will be activated when the value in the _part 13_, is not the same as the current number of workers. Click on this push button to change the number of workers.
