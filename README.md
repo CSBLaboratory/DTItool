@@ -9,12 +9,12 @@ This menu contains four submenus:\
 **Import Model**: to import new model.\
 **Export Model**: to export the current model to a .mat file. All chenges will be saved.\
 **Import Bounds**: to import reaction bounds from an Excel file with a specific format; use Export Bounds submenu to obtain this Excel file.\
-**Export Bounds**: to export and save the reaction bounds to an Excel file.\
+**Export Bounds**: to export and save the reaction bounds to an Excel file.
 
 ### 2: Options
 This menu contains four submenus: \
-**Exclude Exchange Reactions**: \
-**Exclude Diffusion Reactions**:\
-**Exclude Spontaneous Reactions**:\
-**Metabolite-Centric Approach**:\
+**Exclude Exchange Reactions**: to exclude all exchange reactions from the analysis (default: checked).\
+**Exclude Diffusion Reactions**: to exclude all diffusion reactions from the analysis (default: checked).\
+**Exclude Spontaneous Reactions**: to exclude all exchange reactions from the analysis (default: checked).\
+**Metabolite-Centric Approach**: to include only the reactions related to the _choke point_ metabolites (default: unchecked).
   
