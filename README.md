@@ -23,7 +23,7 @@ This menu contains one submenu:\
 **GitHub Link**: lined to this _README.md_ file.
 
 ### 4: Show Only Exchange Reactions
-This checkbox helps the user to explore only in the exhcange reactions of the model. If checked, only exchange reactions will be shown in the table of reactions.\
+This checkbox helps the user to explore only in the exhcange reactions of the model. If checked, only exchange reactions will be shown in the table of reactions.
 
 ### 5: Table of the reactions and the related bounds
 The first column shows the reaction abbreviations of the model.\
