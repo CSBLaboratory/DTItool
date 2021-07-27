@@ -27,7 +27,7 @@ This menu contains four submenus: \
   
 ### 3: Help
 This menu contains one submenu:\
-**GitHub Link**: lined to this _README.md_ file.
+**GitHub Link**: linked to this _README.md_ file.
 
 ### 4: Show Only Exchange Reactions
 This checkbox helps the user to explore only the exchange reactions of the model. If checked, only exchange reactions will be shown in the table of reactions.
