@@ -20,7 +20,7 @@ This menu contains four submenus: \
   
 ### 3: Help
 This menu contains one submenu:\
-**GitHub Link**: lined to this _README.md_ file.\
+**GitHub Link**: lined to this _README.md_ file.
 
 ### 4: Show Only Exchange Reactions
 This checkbox helps the user to explore only in the exhcange reactions of the model. If checked, only exchange reactions will be shown in the table of reactions.\
@@ -32,6 +32,6 @@ The third column shows the upper bounds of the reactions.\
 The reaction bound **can be changed directly** from the table.
 
 ### 6: Objective to Attack
-Choose the type of the analysis:
+Choose the type of the analysis:\
 **Proliferation (Biomass Production)**: to perform the convenient lethality analysis.\
 **Virulence Factor Production**: to perform an analysis to find the sets which prevents the production of the selected virulence factors (the list is shown in part 14).
