@@ -71,7 +71,7 @@ To run the analysis click on this push button. After clicking on this button, th
 
 
 ## DTItool Example for Performing the Lethality Analysis:
-**1) Use the default model (iAF1260) or select another model using the _File/ Import Model_ menu.
-**2) Change the reaction bounds (if needed) or load the reaction bounds using the _File/ Import Bounds_ menu.
-**3) Select the maximum desired cardinality from the _Maximum Cardinality_ spinner.
+**1) Use the default model (iAF1260) or select another model using the _File/ Import Model_ menu.\
+**2) Change the reaction bounds (if needed) or load the reaction bounds using the _File/ Import Bounds_ menu.\
+**3) Select the maximum desired cardinality from the _Maximum Cardinality_ spinner.\
 **4) Click on the _Start Analysis_ push button to start the analysis.
