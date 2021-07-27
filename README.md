@@ -45,5 +45,26 @@ This search box helps the user to find the virulence factors between the metabol
 ### 9: Table of the Metabolite Names
 All names of the metabolites in the model is shown in this table. Each metabolite can be selected by clicking on its name.
 
-### 10: Add Metabolite Button
-All names of the metabolites in the model is shown in this table. Each metabolite can be selected by clicking on its name.
+### 10: Add Virulence Factors to the List
+The selected metabolite in the table can be added to the list of virulence factors by clicking on this button.
+
+### 11: List of Virulence Factors
+All selected virulence factors will be shown in this table.
+
+### 12: Remove Virulence Factors from the List
+The selected metabolite in the related table can be removed from the list of virulence factors by clicking on this button.
+
+### 13: Number of Workers
+The number of workers can be changed by edditing this item and clicking on the _Reset Number of Workers_ button (part 14). The default number of workers is 4.
+
+### 14: Reset Number of Workers
+This push button will be activated when the value in the _part 13_, is not the same as the current number of workers. Click on this push button to change the number of workers.
+
+### 15: Maximum Cardinality
+The maximum desired cardinality can be changed here.
+
+### 16: Cutoff Ratio
+The cutoff ratio for the analysis. This value is multiplied by the wild-type flux of the objective function to define the critical value of lethality or production of the virulence factor.
+
+### 17: Start Analysis
+To run the analysis click on this push button. After clicking on this button, the user should select a name and a path for the excel file of the results. 
