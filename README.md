@@ -5,6 +5,7 @@ Drug Target Identifier Toolbox (DTItool) is an application of Rapid-SL and desig
 The following tools are needed to use RapidSL for finding synthetic lethal sets:
 1. [COBRA Toolbox](https://opencobra.github.io/cobratoolbox/stable/)
 2. CPLEX v12.9.0 or higher.
+tested on MATLAB 2019a.
 
 ## DTItool overview:
 ![alt text](https://github.com/CSBLaboratory/DTItool/blob/main/DTItool_Info.jpg)
