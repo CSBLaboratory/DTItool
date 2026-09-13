@@ -1,5 +1,5 @@
 # DTItool
-Drug Target Identifier Toolbox (DTItool) is an application of Rapid-SL and designed for the identification of potential drug targets. 
+Drug Target Identifier Toolbox (DTItool) is designed for the identification of potential drug targets. 
 
 ## Requirements
 The following tools are needed to use RapidSL for finding synthetic lethal sets:
